@@ -79,7 +79,7 @@ function Delete() {
 	_ELEMENT.innerHTML = text;
 	_PART_INDEX--;
 
-	
+
 	if(text === '') {
 		clearInterval(_INTERVAL_VAL);
 
